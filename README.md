@@ -1,7 +1,7 @@
-# Node + Express Service Starter
+# Demo IDX projects
 
-This is a simple hello world express.js server.
+For testing...
 
 ## Getting Started
 
-Previews should run automatically when starting a workspace. Run the `Show Web Preview` IDX command to see the preview.
+Please Explore Brances to discover
